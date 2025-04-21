@@ -7,11 +7,7 @@ function App() {
       {/* <!-- HERO SECTION  --> */}
       <section id="hero">
         <div className="section-container mb-40 pt-16">
-          <img
-            src="/public/logo.svg"
-            className="mx-auto my-16"
-            alt="LogoHeader"
-          />
+          <img src="logo.svg" className="mx-auto my-16" alt="LogoHeader" />
           <h3>A history of everything you copy</h3>
           <p className="max-w-3xl mx-auto mb-10 text-2xl text-[#9eabb1]">
             Clipboard allows you to track and organize everything you copy.
@@ -56,7 +52,7 @@ function App() {
             {/* <!-- IMAGE --> */}
             <div className="md:w-1/2">
               <img
-                src="/public/image-computer.png"
+                src="image-computer.png"
                 alt="computer"
                 className="md:absolute top-0 right-[50%]"
               />
@@ -101,11 +97,7 @@ function App() {
             Whether you’re on the go, or at your computer, you can access all
             your snippets in a few simple clicks.
           </p>
-          <img
-            src="/public/image-devices.png"
-            alt="Tablet"
-            className="mx-auto"
-          />
+          <img src="image-devices.png" alt="Tablet" className="mx-auto" />
         </div>
       </section>
       {/* <!-- Supercharge Section --> */}
@@ -120,7 +112,7 @@ function App() {
           <div className="flex flex-col items-center justify-between space-y-16 md:flex-row md:space-y-0 md:space-x-12">
             {/* <!-- Item 1 --> */}
             <div className="flex flex-col items-center space-y-5">
-              <img src="/public/icon-blacklist.svg" alt="" class="mb-6" />
+              <img src="icon-blacklist.svg" alt="" class="mb-6" />
               <h5>Create blacklist</h5>
               <p className="max-w-md text-[#9eabb1]">
                 Easily search your snippets by content, category, web address,
@@ -129,7 +121,7 @@ function App() {
             </div>
             {/* <!-- Item 2 --> */}
             <div className="flex flex-col items-center space-y-5">
-              <img src="/public/icon-text.svg" alt="" className="mb-6" />
+              <img src="icon-text.svg" alt="" className="mb-6" />
               <h5>Plain Text Snippets</h5>
               <p className="max-w-md text-[#9eabb1]">
                 Remove unwanted formatting from copied text for a clean and
@@ -138,7 +130,7 @@ function App() {
             </div>
             {/* <!-- Item 3 --> */}
             <div className="flex flex-col items-center space-y-5">
-              <img src="/public/icon-preview.svg" alt="" classNames="mb-6" />
+              <img src="icon-preview.svg" alt="" classNames="mb-6" />
               <h5>Sneak Preview</h5>
               <p className="max-w-md text-[#9eabb1]">
                 Quick preview of all snippets on hover. No need to open each
@@ -152,11 +144,11 @@ function App() {
       {/* <!-- REFERENCES SECTION --> */}
       <section id="references">
         <div class="flex flex-col items-center justify-between max-w-5xl px-10 mx-auto space-y-16 my-44 md:flex-row md:space-y-0">
-          <img src="/public/logo-google.png" alt="" />
-          <img src="/public/logo-ibm.png" alt="" />
-          <img src="/public/logo-microsoft.png" alt="" />
-          <img src="/public/logo-hp.png" alt="" />
-          <img src="/public/logo-vector-graphics.png" alt="" />
+          <img src="logo-google.png" alt="" />
+          <img src="logo-ibm.png" alt="" />
+          <img src="logo-microsoft.png" alt="" />
+          <img src="logo-hp.png" alt="" />
+          <img src="logo-vector-graphics.png" alt="" />
         </div>
       </section>
       {/* <!-- BOTTOM CTA SECTION --> */}
@@ -189,7 +181,7 @@ function App() {
         <div className="section-container pb-5">
           <div className="flex flex-col items-center justify-between md:flex-row">
             {/* <!-- IMAGE --> */}
-            <img src="/public/logo.svg" className="scale-50" alt="" />
+            <img src="logo.svg" className="scale-50" alt="" />
             {/* <!-- CONTAINER FOR MENUS & SOCIAL --> */}
             <div className="flex flex-col items-center justify-between flex-1 mb-10 space-y-6 md:flex-row md:mb-0 md:space-y-0 text-[#9eabb1]">
               {/* <!-- Menus --> */}
@@ -250,21 +242,21 @@ function App() {
               <div className="flex justify-between w-32 py-1">
                 <a href="#">
                   <img
-                    src="/public/icon-facebook.svg"
+                    src="icon-facebook.svg"
                     alt=""
                     className="duration-200 ficon"
                   />
                 </a>
                 <a href="#">
                   <img
-                    src="/public/icon-twitter.svg"
+                    src="icon-twitter.svg"
                     alt=""
                     className="duration-200 ficon"
                   />
                 </a>
                 <a href="#">
                   <img
-                    src="/public/icon-instagram.svg"
+                    src="/icon-instagram.svg"
                     alt=""
                     className="duration-200 ficon"
                   />
