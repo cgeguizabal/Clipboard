@@ -1,12 +1,24 @@
-# React + Vite
+# Clipboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Clipboard is a modern, responsive web application designed to manage and display clipboard history. Built with React, Vite, and Tailwind CSS, it offers a sleek user interface and efficient state management.
 
-Currently, two official plugins are available:
+## ⚙️ Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React**: JavaScript library for building user interfaces.
+- **Vite**: Next-generation, fast build tool and development server.
+- **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧪 Features
+
+- **Clipboard History**: Displays a list of previously copied items.
+- **Responsive Design**: Optimized for both desktop and mobile views.
+- **Clipboard Management**: Options to delete individual items or clear all history.
+- **Mobile first design
+
+---
+#Preview
+https://celebrated-raindrop-e3a486.netlify.app/
+
+
+
