@@ -14,7 +14,7 @@ Clipboard is a modern, responsive web application designed to manage and display
 - **Clipboard History**: Displays a list of previously copied items.
 - **Responsive Design**: Optimized for both desktop and mobile views.
 - **Clipboard Management**: Options to delete individual items or clear all history.
-- Mobile first design
+- **Mobile first design**
 
 ---
 #Preview
