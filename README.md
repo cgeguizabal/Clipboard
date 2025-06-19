@@ -1,6 +1,6 @@
 # Clipboard
 
-Clipboard is a modern, responsive web application designed to manage and display clipboard history. Built with React, Vite, and Tailwind CSS, it offers a sleek user interface and efficient state management.
+This project is a responsive website replicating the Loopstudios landing page challenge from Frontend Mentor.
 
 ## ⚙️ Technologies Used
 
@@ -11,9 +11,7 @@ Clipboard is a modern, responsive web application designed to manage and display
 
 ## 🧪 Features
 
-- **Clipboard History**: Displays a list of previously copied items.
 - **Responsive Design**: Optimized for both desktop and mobile views.
-- **Clipboard Management**: Options to delete individual items or clear all history.
 - **Mobile first design**
 
 ---
